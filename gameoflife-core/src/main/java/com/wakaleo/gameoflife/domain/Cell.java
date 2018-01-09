@@ -1,4 +1,5 @@
 package com.wakaleo.gameoflife.domain;
+package com.wakaleo.gameoflife.domain;
 
  /**
  * Wakaleo Consulting - John Ferguson Smart
